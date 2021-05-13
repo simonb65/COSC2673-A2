@@ -135,3 +135,4 @@ tmp/
 patch_images/
 ref
 /*.csv
+__MACOSX
