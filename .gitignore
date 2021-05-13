@@ -134,3 +134,4 @@ dmypy.json
 tmp/
 patch_images/
 ref
+/*.csv
